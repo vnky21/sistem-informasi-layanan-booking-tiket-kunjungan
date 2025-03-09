@@ -1,3 +1,5 @@
+(assets/img/App 1.jpg)
+
 # Sistem Informasi Layanan Booking Tiket Museum
 
 Sistem Informasi Layanan Booking Tiket Museum adalah aplikasi berbasis web yang memungkinkan pengunjung untuk melakukan pemesanan tiket museum secara online. Aplikasi ini mempermudah pengelolaan jadwal kunjungan dan kapasitas museum, serta menyediakan fitur e-ticket otomatis untuk pengguna.
