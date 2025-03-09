@@ -1,4 +1,4 @@
-![Preview Aplikasi](assets/img/App 1.jpg)
+![Halaman Login](assets/img/App1.jpg)
 
 # Sistem Informasi Layanan Booking Tiket Museum
 
